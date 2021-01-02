@@ -28,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "node_modules/semantic-ui-css/semantic.css"
             ],
             "scripts": []
           },
@@ -91,7 +91,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "node_modules/semantic-ui-css/semantic.css"
             ],
             "scripts": []
           }
@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "BookMonkey"
+  "defaultProject": "BookMonkey",
+  "cli": {
+    "analytics": "95eca2a8-6cc6-4080-a99e-30db87d41b89"
+  }
 }
